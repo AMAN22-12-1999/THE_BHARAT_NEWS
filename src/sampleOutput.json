@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 11,
+    "articles": [
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "Netherlands vs. United States - Football Match Report - December 3, 2022 - ESPN",
+            "description": "Get a report of the Netherlands vs. United States 2022 FIFA World Cup, Round of 16 football match.",
+            "url": "http://espn.go.com/soccer/report?gameId=633835",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1203%2Fr1101392_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-12-03T18:07:18.8103918Z",
+            "content": "The United States crashed out of the World Cup on Saturday after suffering a 3-1 defeat against the Netherlands in the round of 16.\r\nThe Dutch displayed their firepower with two first-half goals, lea… [+3853 chars]"
+        },
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "Philippe Piat réélu président de l'UNFP",
+            "description": "En poste depuis 1969, Philippe Piat a été réélu président de l'Union syndicale des footballeurs professionnels (UNFP), ce samedi à Paris. Coprésident avec lui depuis 2006, Sylvain Kastendeuch quitte ses fonctions.",
+            "url": "https://www.lequipe.fr/Football/Actualites/Philippe-piat-reelu-president-de-l-unfp/1368260",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/philippe-piat-reste-le-patron-de-l-unfp-p-lahalle-l-equipe/1500000001719633/0:343,1997:1675-640-427-75/7f5b9.jpg",
+            "publishedAt": "2022-12-03T17:24:36+00:00",
+            "content": "Réunie ce samedi à Paris, l'assemblée générale élective de l'Union syndicale des footballeurs professionnels (UNFP) a prôné la continuité. Son président depuis 1969, Philippe Piat, a été réélu. Mais … [+283 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "College football top plays: Kansas State-TCU, LSU-Georgia, more",
+            "description": "Kicking off Saturday's college football action is Kansas State facing TCU in the Big 12 Championship. Here are the top plays!",
+            "url": "http://www.foxsports.com/stories/college-football/college-football-top-plays-kansas-state-tcu-lsu-georgia-more",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/12/1408/814/11.2.22_TCU-Kansas-State-Purdue-Michigan_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2022-12-03T17:17:59Z",
+            "content": "Week 14 of the college football\r\n season features a handful of highly anticipated matchups to end the year, starting with No. 3 TCU playing host to No. 10 Kansas State in the Big 12 Championship in A… [+1375 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Messages of support from across football for Pele",
+            "description": "Messages of support for Brazil great Pele are sent from across the world after the three-time World Cup winner is hospitalised in Sao Paulo.",
+            "url": "http://www.bbc.co.uk/sport/football/63846935",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/CA97/production/_127836815_gettyimages-905244602-1.jpg",
+            "publishedAt": "2022-12-03T16:52:25.4694145Z",
+            "content": "Fans wished Pele well at Brazil's World Cup group game against Cameroon in Qatar on Friday\r\nMessages of support for Brazil great Pele have been sent from across the world after the three-time World C… [+1580 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "College football transfer portal tracker: Notable names on the move",
+            "description": "As the calendar gets set to flip to 2023, a number of notable college football players will enter the transfer portal. Track the latest moves here.",
+            "url": "http://www.foxsports.com/stories/college-football/college-football-transfer-portal-tracker",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/11/1408/814/11.30.22_TransferPortalTracker_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2022-12-03T16:46:24Z",
+            "content": "Circle Dec. 5 on your calendar, college football fans.\r\nThat is the day college footballs new transfer portal window will officially open. Despite new NCAA transfer windows being adopted and put into… [+9501 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "USC's shocking loss to Utah in Pac-12 championship throws College Football Playoff into chaos",
+            "description": "USC's 47-24 loss brings late-in-the-day chaos to the playoff, setting up a comparison between the two-loss Trojans and No. 5 Ohio State.",
+            "url": "https://www.usatoday.com/story/sports/ncaaf/2022/12/03/ucss-loss-utah-pac-12-championship-upends-college-football/10823702002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/12/03/USAT/17ce62f2-6523-4808-b18d-ad5bca8ef8e0-paul-utah.jpg?auto=webp&crop=3663,2060,x1,y146&format=pjpg&width=1200",
+            "publishedAt": "2022-12-03T05:07:59+00:00",
+            "content": "It all could’ve been so easy.\r\nNo. 4 Southern California could’ve avenged an earlier loss to No. 12 Utah by beating the Utes, claiming the Pac-12 championship and punching a ticket into the College F… [+3754 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Field YatesESPN Insider ",
+            "title": "Fantasy football Week 13 tips: Garrett Wilson, Deshaun Watson",
+            "description": "Field Yates discusses top Week 13 storylines, including the Jets' dynamic rookie receiver, the Browns' offense and what to do with Dameon Pierce and D'Andre Swift.",
+            "url": "http://espn.go.com/fantasy/football/insider/story/_/id/35146347/garrett-wilson-deshaun-watson-chris-godwin-dameon-pierce-dandre-swift",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1127%2Fr1097905_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-12-01T13:00:00Z",
+            "content": "Each week during the 2022 NFL season, Field Yates will help fantasy football managers by providing the precise intel needed on the most important, fantasy-relevant storylines. Field's Rolodex is vast… [+9549 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Anne Vidalie",
+            "title": "Dans le Far West des NFT, les histoires de gros sous du foot virtuel",
+            "description": "Cartes de footballeurs à collectionner, tournois en ligne, trophées et maillots dématérialisés, vidéos de buts mythiques... Le monde du ballon rond découvre, comme le monde de l’art, les joies et les tristesses des NFT.",
+            "url": "https://www.lemonde.fr/economie/article/2022/11/29/dans-le-far-west-des-nft-les-histoires-de-gros-sous-du-foot-virtuel_6152086_3234.html",
+            "urlToImage": "https://img.lemde.fr/2022/11/25/90/0/1890/1260/1440/960/60/0/15fb907_1669390927574-le-monde-foot-nft2.jpg",
+            "publishedAt": "2022-11-29T05:15:04Z",
+            "content": "Quand il était enfant, Cyril collectionnait les vignettes Panini, ces images de joueurs de foot échangées dans les cours de récré. « Jaimais les regarder, les toucher, tourner les pages des albums da… [+2506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Pierre Trouvé",
+            "title": "Vidéo. Coupe du monde 2022 : pourquoi le football est-il un sport si imprévisible ?",
+            "description": "Vidéo - Le faible nombre de buts marqués durant un match permet aux petites équipes de renverser plus facilement les favoris.",
+            "url": "https://www.lemonde.fr/sport/video/2019/06/07/coupe-du-monde-2019-pourquoi-le-football-est-il-un-sport-si-imprevisible_5472735_3242.html",
+            "urlToImage": "https://img.lemde.fr/2021/06/18/2/27/1517/1011/1440/960/60/0/fb5b7e0_494039165-459e206-cq4et4k6qkkjxrsi4stzzcoc.jpg",
+            "publishedAt": "2019-06-07T08:27:02Z",
+            "content": "Cette vidéo a été publiée pour le mondial de 2018. La Coupe du monde 2022 est loccasion de revenir sur les origines de limprévisibilité du football.\r\nAu football, de petites équipes réussissent régul… [+746 chars]"
+        }
+    ]
+}
